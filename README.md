@@ -18,7 +18,6 @@ In order to verify that the implementation was correct, the surrounding circle w
 
 Result  
 ----------------
-<img width="700" src="https://user-images.githubusercontent.com/44941601/72059235-f9b56a80-3314-11ea-8d71-fa709c98013f.gif
-"> 
+<img width="700" src="https://user-images.githubusercontent.com/44941601/72059235-f9b56a80-3314-11ea-8d71-fa709c98013f.gif"> 
 
 <hr/>  
