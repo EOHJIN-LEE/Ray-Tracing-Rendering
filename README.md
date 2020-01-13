@@ -16,6 +16,14 @@ And transparency is also embodied.
 In order to verify that the implementation was correct, the surrounding circle was rendered to rotate.
 -------------------------------------------------------------------
 
+
+<hr/>  
+Project Solution Design 
+-----------------------
+
+<img width="700" src="https://user-images.githubusercontent.com/44941601/72230728-cddb0300-35fa-11ea-9321-013f6d64492b.png"> 
+
+
 <hr/>  
 
 Result  
